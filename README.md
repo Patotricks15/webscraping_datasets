@@ -1,5 +1,7 @@
 # WEB SCRAPING EM CONJUNTOS DE DADOS
 
+Link do notebook: https://colab.research.google.com/drive/1JankVurInDUdLriwJwUlce3lTB2JOs1T#scrollTo=6ByVgfG9biaq
+
 O objetivo desse projeto é extrair nome e link de datasets de 5 sites:
 
 1. **Awesome Public Datasets**: É muito útil para procurar por temas, por exemplo;
